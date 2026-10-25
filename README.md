@@ -138,8 +138,6 @@ olist-ecommerce-data-pipeline/
 │   ├── silver/
 │   └── gold/
 ├── docs/
-│   ├── architecture.md
-│   ├── data_dictionary.md
 │   └── screenshots/
 └── README.md
 ```
