@@ -1,0 +1,21 @@
+table_name,check_name,failed_count,status,checked_at
+silver_orders,null_key_rows,0,PASS,2026-10-24 22:26:50.726123
+silver_orders,duplicate_key_groups,0,PASS,2026-10-24 22:26:50.726123
+silver_order_items,null_key_rows,0,PASS,2026-10-24 22:26:50.726123
+silver_order_items,duplicate_key_groups,0,PASS,2026-10-24 22:26:50.726123
+silver_order_payments,null_key_rows,0,PASS,2026-10-24 22:26:50.726123
+silver_order_payments,duplicate_key_groups,0,PASS,2026-10-24 22:26:50.726123
+silver_customers,null_key_rows,0,PASS,2026-10-24 22:26:50.726123
+silver_customers,duplicate_key_groups,0,PASS,2026-10-24 22:26:50.726123
+silver_products,null_key_rows,0,PASS,2026-10-24 22:26:50.726123
+silver_products,duplicate_key_groups,0,PASS,2026-10-24 22:26:50.726123
+silver_sellers,null_key_rows,0,PASS,2026-10-24 22:26:50.726123
+silver_sellers,duplicate_key_groups,0,PASS,2026-10-24 22:26:50.726123
+silver_category_translation,null_key_rows,0,PASS,2026-10-24 22:26:50.726123
+silver_category_translation,duplicate_key_groups,0,PASS,2026-10-24 22:26:50.726123
+silver_orders,null_key_rows,0,PASS,2026-10-24 21:42:42.675372
+silver_orders,duplicate_key_groups,0,PASS,2026-10-24 21:42:42.675372
+silver_order_items,null_key_rows,0,PASS,2026-10-24 21:42:42.675372
+silver_order_items,duplicate_key_groups,0,PASS,2026-10-24 21:42:42.675372
+silver_order_payments,null_key_rows,0,PASS,2026-10-24 21:42:42.675372
+silver_order_payments,duplicate_key_groups,0,PASS,2026-10-24 21:42:42.675372
