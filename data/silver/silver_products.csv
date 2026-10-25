@@ -1,0 +1,21 @@
+product_category_name,product_id,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm,_ingested_at,_source_file,product_category_english,_silver_processed_at
+moveis_decoracao,20e37962088a4061d3578def47a8648b,60,208,1,800,40,10,34,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Furniture Decor,2026-10-24 22:24:53.496440
+utilidades_domesticas,e6af694343b45b56304ad91974a110b9,37,352,1,3900,19,20,15,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Housewares,2026-10-24 22:24:53.496440
+moveis_decoracao,680874c570dad71c0a2844cfbf417054,47,502,1,600,25,25,25,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Furniture Decor,2026-10-24 22:24:53.496440
+brinquedos,1c6fb703c624b381a20f21f757694866,33,471,2,725,22,17,15,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Toys,2026-10-24 22:24:53.496440
+telefonia,92bf5d2084dfbcb57d9db7838bac5cd0,51,427,2,100,19,3,11,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Telephony,2026-10-24 22:24:53.496440
+pet_shop,a3a03c131926ec14d4c9f3ef03016b24,54,463,1,700,40,20,20,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Pet Shop,2026-10-24 22:24:53.496440
+beleza_saude,e586ebb6022265ae1eea38f46ffe3ead,40,1469,3,1050,18,21,27,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Health Beauty,2026-10-24 22:24:53.496440
+cama_mesa_banho,c2367eda4f9623d0355dc5d7796d857a,50,607,1,6450,100,10,11,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Bed Bath Table,2026-10-24 22:24:53.496440
+malas_acessorios,65a6462e42e05ab3b8dc613566736825,49,540,4,1100,39,12,28,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Luggage Accessories,2026-10-24 22:24:53.496440
+esporte_lazer,5a42f73d92034010a4e00360fb0df099,55,144,1,3775,18,13,16,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Sports Leisure,2026-10-24 22:24:53.496440
+eletrodomesticos,5877301b00f95e3c6118738b293dfab3,50,273,1,1500,65,8,38,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Home Appliances,2026-10-24 22:24:53.496440
+esporte_lazer,b521fddf2c8a7e7d1791bfb3c1b2f278,55,448,1,1000,20,20,20,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Sports Leisure,2026-10-24 22:24:53.496440
+automotivo,1cf39a397efa955b102a52ee7ec5531c,35,907,3,18200,56,15,15,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Auto,2026-10-24 22:24:53.496440
+cool_stuff,701ff123e9085dcc9c2f833efded6374,50,268,5,10664,61,63,35,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Cool Stuff,2026-10-24 22:24:53.496440
+relogios_presentes,80fc21f90a43fdcfc623f11f5457db10,55,457,2,267,17,11,12,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Watches Gifts,2026-10-24 22:24:53.496440
+,e10758160da97891c2fdcbc35f0f031d,,,,2200,16,2,11,2026-10-24 22:23:54.523922,olist_products_dataset.csv,,2026-10-24 22:24:53.496440
+moveis_cozinha_area_de_servico_jantar_e_jardim,84e1b9c6ba2ed178bd217097b41f1251,50,859,1,10893,33,88,44,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Kitchen Dining Laundry Garden Furniture,2026-10-24 22:24:53.496440
+cama_mesa_banho,3c883b9d3fd2d0ce448d4136349dc0a4,49,153,1,550,23,15,23,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Bed Bath Table,2026-10-24 22:24:53.496440
+automotivo,37dffde0476450e75dae423136954b0f,60,1023,5,250,20,20,20,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Auto,2026-10-24 22:24:53.496440
+automotivo,fdac82e439dafa5f87a9547581532380,60,1541,1,1000,26,40,20,2026-10-24 22:23:54.523922,olist_products_dataset.csv,Auto,2026-10-24 22:24:53.496440
