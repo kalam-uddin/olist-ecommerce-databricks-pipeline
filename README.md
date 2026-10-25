@@ -132,7 +132,7 @@ olist-ecommerce-data-pipeline/
 │   ├── 01_bronze_ingestion.py
 │   ├── 02_silver_transformation.py
 │   └── 03_gold_analytics.py
-├── sample_data/
+├── data/
 │   ├── raw/
 │   ├── bronze/
 │   ├── silver/
